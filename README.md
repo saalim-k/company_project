@@ -6,7 +6,7 @@ This project consists of a sentiment analysis system with a FastAPI backend and 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/company_project.git
+git clone https://github.com/saalim-k/company_project.git
 cd company_project
 ```
 
