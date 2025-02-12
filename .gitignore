@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 .vscode/
 sentiment_env/
-**/*.bin
-**/*.bin.gz
 __pycache__/
 training/
+/backend/uploads/
