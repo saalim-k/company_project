@@ -4,3 +4,4 @@ sentiment_env/
 **/*.bin
 **/*.bin.gz
 __pycache__/
+training/
