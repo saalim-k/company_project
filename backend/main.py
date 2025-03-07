@@ -49,7 +49,7 @@ print(f"Loading model from: {MODEL_PATH}")
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
 
-GEMINI_API_KEY = "AIzaSyAocqYU1BgnWngWtxOxn4-Vner-ApDop2Q"
+GEMINI_API_KEY = "" # Your api key here
 genai.configure(api_key=GEMINI_API_KEY)
 
 gemini_model = genai.GenerativeModel('gemini-1.5-pro')
